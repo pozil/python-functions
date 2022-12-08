@@ -42,3 +42,6 @@ __pycache__
 
 # Local environment variables
 .env
+
+# VS Code settings
+.vscode
