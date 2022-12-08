@@ -1,0 +1,9 @@
+[_]
+schema-version = "0.2"
+
+[com.salesforce]
+schema-version = "0.1"
+id = "python_watermark"
+description = "A Salesforce Function that applies a watermark on an document."
+type = "function"
+salesforce-api-version = "56.0"
