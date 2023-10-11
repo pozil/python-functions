@@ -1,3 +1,6 @@
+> **Warning**
+> As per the [Salesforce Functions Retirement announcement](https://devcenter.heroku.com/articles/salesforce-functions-retirement), this repository is now archived.
+
 # Sample Python Function
 
 Install the Python function dependencies:
